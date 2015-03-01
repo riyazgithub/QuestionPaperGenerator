@@ -1,0 +1,4 @@
+
+1) Which sorting algorithm makes minimum number of lines
+2) Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted
+
